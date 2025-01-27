@@ -1,3 +1,4 @@
+These originally came from Xerox before being adopted by apple and microsoft and expanded for common consumption. They have been further expanded by browser conventions. The hotkeys to keep in mind are:
 Ctrl+X (Cut)
 Ctrl+C (Copy)
 Ctrl+V (Paste)
