@@ -1,0 +1,46 @@
+Ctrl+X (Cut)
+Ctrl+C (Copy)
+Ctrl+V (Paste)
+Ctrl+Z (Undo)
+Ctrl+A (Select All)
+Ctrl+F (Find)
+Ctrl+P (Print)
+Ctrl+S (Save)
+Ctrl+W (Close Window)
+Ctrl+Q (Quit)
+Ctrl+Tab (Switch Applications)
+Ctrl+B (Bold)
+Ctrl+I (Italic)
+Ctrl+K (Insert Link)
+Ctrl+Backspace/Delete - Delete whole word
+Ctrl+Shift+Arrow keys - Select text by word
+Home/End - Jump to start/end of line
+Ctrl+Home/End - Jump to start/end of document
+Shift+Arrow keys - Select text character by character
+Ctrl+Shift+T - Reopen closed tab
+Ctrl+L - Focus address bar
+Ctrl+W - Close current tab
+Ctrl+Tab - Switch between tabs
+Ctrl+Shift+N - New incognito/private window
+Double click - Select word
+Triple click - Select paragraph
+Ctrl+Click - Select multiple individual items
+Shift+Click - Select range of items
+F2 - Rename selected file/folder
+Alt+Enter - Show properties
+Shift+Delete - Permanent delete (skip recycle bin)
+Ctrl+Shift+N - Create new folder
+F5 - Refresh/reload
+F11 - Full screen
+F12 - Developer tools (in browsers)
+Ctrl+Shift+V - Paste without formatting
+Ctrl+Alt+V - Paste special
+Ctrl+Alt+K - Small caps
+Ctrl+= - Superscript
+Ctrl+Shift+= - Subscript
+Ctrl+Space - Remove formatting
+Alt+F4 - Close program
+Ctrl+Plus/Minus - Zoom in/out
+Ctrl+0 - Reset zoom
+Ctrl+Shift+Delete - Clear browser data
+Alt+Left/Right - Navigate back/forward
